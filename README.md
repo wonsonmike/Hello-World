@@ -17,8 +17,15 @@ I used VS Code to develop this software.
 
 The programming language is HTML.
 
+To run the program:
+
+```
+Install the "Live Server" extension in VS Code
+Open the index.html file and right click anywhere on the text
+Select "Open with Live Server"
+```
+
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Visual Studio Code (VSCode)](https://code.visualstudio.com/docs/?dv=win)
+* [W3Schools HTML tutorial](https://www.w3schools.com/html/)
